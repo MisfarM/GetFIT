@@ -1,2 +1,2 @@
  GetFIT is a
- Your Personal Fitness Companion.
+ Personal Fitness Companion.
